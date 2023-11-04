@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `deposite_balance` DOUBLE NOT NULL DEFAULT '0' AFTER `balance`;

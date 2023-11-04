@@ -1,0 +1,25 @@
+1. Mushfiq Vai Project
+2. Travelvela Feedbacks
+3. Talenxo Remainging Task
+4. Bappa Uncle Ecommerce
+5. Book Project
+
+
+1. Job Complete hoar por ekbar view er por r offer job list and previous job list e dekha jai na.
+2. Payment History te no Data dekhai.
+3. PO withdraw button add korte hobe.
+
+
+Admin View:
+1. Live Tender List (Assistant Name & Mobile ase na...)
+2. Live Tender List (Job Posted Contractor er naam er sathe Mobile No thakbe)
+3. Job Complete hoar poreo work status pending dekhai
+
+PO Service:
+1. PO Release Date dite hobe ja admin hote bosabe and sei onujai days calculate hoye Security amount theke kete contractor k ferot deoa hobe.
+
+Bid Assistant View
+1. Finish Job e file upload mendatory na...
+2. Job Details e Tender ID ase; hobe JOB ID
+3. Withdraw History dekhar option lagbe..
+
